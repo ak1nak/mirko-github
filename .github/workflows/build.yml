@@ -23,7 +23,7 @@ jobs:
           npm run test:cypress
 
       - name: UserWay Accessibility Analysis
-        uses: UserWayOrg/cicd-action@main
+        uses: UserWayOrg/cicd-action@dev
         with:
           token: ${{ secrets.USERWAY_TOKEN }}
           report_paths: './uw-a11y-reports'
