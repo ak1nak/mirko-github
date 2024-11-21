@@ -3,6 +3,6 @@ export default {
   organization: "serhii-diachenko-userway-org-toqmw",
   project: "mirko-github",
   reportPaths: ["./uw-a11y-reports"],
-  token: process.env.USERWAY_TOKEN,
+  token: "axvnjixeozojpy750bcuekqokernqz9c9nswrwgc",
   server: "https://api.qa.userway.dev",
 } satisfies Config;
