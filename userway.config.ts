@@ -4,5 +4,5 @@ export default {
   project: "mirko-github",
   token: "axvnjixeozojpy750bcuekqokernqz9c9nswrwgc",
   reportPaths: ["./uw-a11y-reports"],
-  server: "https://api.qa.userway.dev",
+  server: "https://api.dev.userway.dev",
 } satisfies Config;
